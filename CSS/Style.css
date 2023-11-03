@@ -1,0 +1,52 @@
+.Content{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(30, 198, 210, 0.214);
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    border-radius: 20px;
+    
+}
+.Box{
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 20px;
+ 
+}
+.Profile{
+    border-radius: 50%;
+    width: 200px; height: 200px;
+    border: 3px solid;
+    border-color: aquamarine;
+    
+    
+}
+.Ajim{
+    color: white;
+}
+.Student{
+    color: white;
+    padding: 10px;
+}
+.Instagram{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+.Linkedin{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.Telegram{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.Whatsapp{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
